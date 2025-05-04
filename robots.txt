@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://renewable-energy-oman.alwejhagroup.com/sitemap.xml
